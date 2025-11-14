@@ -1,3 +1,5 @@
+Pasos que se han realizado para hacer esta tarea;
+
 Valoración Integrante 1 (Francisco Javier Párraga Oliver):
 
 
