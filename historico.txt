@@ -1,0 +1,36 @@
+
+COORDINACIÓN CON EL EQUIPO
+
+Integrante 1: Creó el repo y me dio acceso
+Integrante 2: Me pasó los datos de la BD
+Integrante 3: Configuré Config.php y subí mis archivos
+
+
+====================================
+COMANDOS GIT QUE HE USADO
+
+git clone https://github.com/Javieroliver-web/GRUPO3DAW25.git
+git init
+git status
+git add . 
+git commit -m "Integrante 3: Añadidos index.php, Controller.php y Config.php con datos de BD configurados"
+git push
+
+====================================
+URL DEL PROYECTO DESPLEGADO
+
+Ejemplo: https://hostingfran.wuaze.com/alimentos_proyecto/alimentos2025/web/index.php?i=1
+
+
+====================================
+RESUMEN
+
+Config.php modificado correctamente
+3 archivos subidos a GitHub  
+Todo documentado en este archivo
+
+====================================
+Usuario y contraseña del hosting:
+usuario: if0_40357147
+contraseña: KrW7FSdaahei
+
