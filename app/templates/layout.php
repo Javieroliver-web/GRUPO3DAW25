@@ -29,7 +29,6 @@
 
          <div id="pie">
              <hr/>
-             <div align="center">- pie de página -</div>
          </div>
      </body>
  </html>
